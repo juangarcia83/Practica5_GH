@@ -2,11 +2,7 @@
 
 Brazo robot articulado hecho con Three.js (r140), correspondiente a la opción 1 de la práctica 5 de Gráficos por Computador (MUIARFID, UPV).
 
-<<<<<<< HEAD
 **Demo:** https://juangarcia83.github.io/Practica5_GH/practica5.html
-=======
-**Demo:** [https://USUARIO.github.io/GPC/practica5.html](https://juangarcia83.github.io/Practica5_GH/practica5.html)
->>>>>>> a860b76f096cdfb2071620cfd30d36fb7eb47773
 
 ## Qué incluye
 
